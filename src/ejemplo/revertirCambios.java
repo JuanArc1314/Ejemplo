@@ -10,6 +10,7 @@ package ejemplo;
  */
 public class revertirCambios {
        /**
+        * prueba 2
  * EXPLICACION: Como revertir cambios en Git desde NetBeans
  * 
  * Existen 3 casos para revertir cambios segun el momento en que te encuentres:
